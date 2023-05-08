@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Request for IT Support Ticket</title>
+  </head>
+  <body>
+    <h1>Request for IT Support Ticket</h1>
+    <p>Dear IT Support Team,</p>
+    <p>We are writing to request your assistance with a technical issue at STORE_NUMBER.</p>
+    <p>SUPPORT_MESSAGE</p>
+    <p>Please let us know if you need any further information from us to resolve this issue.</p>
+    <p>Thank you for your help.</p>
+    <p>Sincerely,</p>
+    <p>Your Name</p>
+  </body>
+</html>
